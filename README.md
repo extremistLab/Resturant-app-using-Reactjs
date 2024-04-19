@@ -9,13 +9,14 @@ Step 2-> Order Placement: Users can add items to their cart and place orders for
 Step 3-> Cart Management: Users can view and modify the contents of their cart before finalizing their order.
 
 ## Technologies Used:
--> Frontend: React.js for building the user interface, including components for menu display, cart management, and order tracking.
--> Styling: CSS or a CSS preprocessor like Sass for styling the application's components and layout.
+- Frontend: React.js for building the user interface, including components for menu display, cart management, and order tracking.
+
+- Styling: CSS or a CSS preprocessor like Sass for styling the application's components and layout.
 
 ## Getting Started:
 1. Clone the Repository: Clone the Restaurant App repository from GitHub to your local machine.
 ```
-   git clone https://github.com/your-username/restaurant-app.git
+   git clone https://github.com/extremistLab/Resturant-app-using-Reactjs.git
 ```
 2. Install Dependencies: Navigate to the project directory and install the required dependencies for both the frontend and backend.
 ```

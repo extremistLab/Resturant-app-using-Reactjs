@@ -3,7 +3,9 @@ The Restaurant App is a web application designed to facilitate online ordering f
 
 ## Features:
 Step 1-> Menu Browsing: Users can browse the restaurant's menu to view available items and their descriptions.
+
 Step 2-> Order Placement: Users can add items to their cart and place orders for pickup or delivery.
+
 Step 3-> Cart Management: Users can view and modify the contents of their cart before finalizing their order.
 
 ## Technologies Used:
@@ -22,7 +24,7 @@ cd frontend
 npm install
 
 ```
-3. Set Up Environment Variables: Create a '.env' file in the backend directory and configure environment variables such as database connection string, JWT secret key, and any other necessary configurations.
+3. Set Up Environment Variables: Create a `.env` file in the backend directory and configure environment variables such as database connection string, JWT secret key, and any other necessary configurations.
 
 4. Start the Servers: Start both the frontend and backend servers to run the application locally.
 
@@ -31,5 +33,5 @@ cd ../frontend
 npm start
 ```
 
-5. Access the Application: Open a web browser and navigate to 'http://localhost:3000' to access the Restaurant App.
+5. Access the Application: Open a web browser and navigate to `http://localhost:3000` to access the Restaurant App.
 
